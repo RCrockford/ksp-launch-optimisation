@@ -1,9 +1,0 @@
-{
-    "gravConstant" : 3.986004418e+14,
-    "earthRadius" : 6371000,
-    "rotationPeriod" : 86164.098903691,
-    "airMolarMass" : 0.0289644,
-    "adiabaticIndex" : 1.4,
-    "launchLatitude" : 28.608389,
-    "launchAltitude" : 85
-}

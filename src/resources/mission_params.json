@@ -1,0 +1,28 @@
+{
+    "stages": [
+        {
+            "wetmass": 56321.0,
+            "fuelmass": 44482.0,
+            "thrustVac": 979.44,
+            "IspSL": 247.71,
+            "IspVac": 314.4
+        },
+        {
+            "wetmass": 4237.0,
+            "fuelmass": 2355.0,
+            "thrustVac": 67.6,
+            "IspSL": 240.0,
+            "IspVac": 271.0
+        },
+        {
+            "wetmass": 1529.0,
+            "fuelmass": 1016.0,
+            "thrustVac": 33.8,
+            "IspSL": 240.0,
+            "IspVac": 271.0
+        }
+    ],
+    
+    "apoapsis": 180000.0,
+    "periapsis": 180000.0
+}
