@@ -1,0 +1,4 @@
+
+*.db
+src/.vs/RocketSim/v15/.suo
+build/resources/font_segoeui.dat
